@@ -14,3 +14,9 @@ numero_posterior=numero_actual+1
 #   Imprimimos los resultados
 print("\n=======================SECUENCIA RESULTANTE===========================")
 print("\n",numero_anterior,numero_actual,numero_posterior, sep="\n",end="\n\n")
+
+#   ===========================================================================
+#   *************************** Enunciado 2 ***********************************
+#   Leer la base y la altura de un triángulo, calcular y mostrar la superficie
+#   del mismo
+#   ===========================================================================
